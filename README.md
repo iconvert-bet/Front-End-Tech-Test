@@ -23,6 +23,7 @@ There are some tasks that could be too big to implement, but you may also descri
 * When displaying whether the campaign is enabled or not, take into account the start and end dates of the campaign (if the end date has passed, the campaign is not enabled, regardless of what `is_enabled` says)
 * If there is no start/end date it should describe the campaign as "continuous"
 * Add a "More Info" button that reveals the voucher code and voucher code expiry time.
+* Add some automated tests (no need to test everything, but 1 or 2 would be good just to give examples of how you _would_ test)
 
 #### Advanced Tasks
 * Include a Dockerfile and/or docker-compose.yml
