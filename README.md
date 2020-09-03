@@ -27,7 +27,6 @@ There are some tasks that could be too big to implement, but you may also descri
 #### Advanced Tasks
 * Include a Dockerfile and/or docker-compose.yml
 * What could a deployment look like? (Infra/CI/CD)
-* Logging - system/application
 * Local development for multiple developers
 * Code version control and branch/development life-cycle
 
