@@ -21,7 +21,7 @@ There are some tasks that could be too big to implement, but you may also descri
 
 #### Intermediate Tasks
 * When displaying whether the campaign is enabled or not, take into account the start and end dates of the campaign (if the end date has passed, the campaign is not enabled, regardless of what `is_enabled` says)
-* If there is no start/end date it should describe the campaing as "continuous"
+* If there is no start/end date it should describe the campaign as "continuous"
 * Add a "More Info" button that reveals the voucher code and voucher code expiry time.
 
 #### Advanced Tasks
