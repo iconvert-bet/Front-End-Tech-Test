@@ -30,6 +30,7 @@ There are some tasks that could be too big to implement, but you may also descri
 * What could a deployment look like? (Infra/CI/CD)
 * Local development for multiple developers
 * Code version control and branch/development life-cycle
+* Add in some CSS/JS animations where they makes sense
 
 #### Additional Tasks
 * Add a "preview" section (hidden behind a button) that displays what is returned in the HTML field
